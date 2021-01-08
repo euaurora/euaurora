@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##### 哈尔滨工程大学|核工程与核技术专业|本科在读  
-💡 愿在这里给心中的自己以自由。
+- 💬 愿在这里给心中的自己以自由。
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=euaurora&show_icons=true&theme=tokyonight)
